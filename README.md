@@ -1,94 +1,43 @@
-📄 README — Nuel Ukah Portfolio Website
-Overview
+# Nuel Ukah - Web Developer & Software Engineer Portfolio  
 
-This project is a basic personal portfolio website for Nuel Ukah, built using HTML5 semantic tags with a focus on:
+## 📌 Overview  
+A **semantic HTML5 portfolio website** showcasing Nuel Ukah's professional journey, technical skills, projects, and contact information. Built with accessibility, SEO, and mobile optimization in mind—no CSS or JavaScript required.  
 
-Accessibility (screen-reader friendly, ARIA roles, alt text)
+## 🎯 Features  
+✅ **Semantic HTML5 Structure** – Uses `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, and `<footer>` for clarity.  
+✅ **Accessibility Optimized** – ARIA labels, alt text, logical heading hierarchy, and screen-reader-friendly navigation.  
+✅ **SEO-Ready** – Descriptive metadata, keyword optimization, and semantic markup for search engines.  
+✅ **Mobile-Friendly** – Responsive design via HTML5 viewport settings.  
+✅ **Contact Form** – Simple mailto form for easy outreach.  
+✅ **Social Media Integration** – Links to GitHub, LinkedIn, Twitter, and more.  
 
-SEO best practices (proper heading hierarchy, metadata, descriptive text)
+## 📂 Sections  
+1. **About Me** – Introduction with professional photo.  
+2. **Education** – Academic background + downloadable CV.  
+3. **Programming Languages** – List of technical skills (HTML5, Python, etc.).  
+4. **Interests** – Tech passions and professional focus areas.  
+5. **Projects** – Featured work with descriptions and links.  
+6. **Contact** – Form and social media links.  
 
-Beginner-friendly mobile optimization (viewport meta tag)
+## 🛠️ Technologies Used  
+- **Pure HTML5** – No CSS/JS to maintain focus on semantic structure.  
+- **Accessibility** – ARIA attributes, `alt` text, and landmark roles.  
+- **SEO** – Meta tags, descriptive headings, and keyword-rich content.  
 
-The portfolio is designed to showcase skills, background, education, interests, projects, and provide an easy contact method for collaborators or employers.
+## 📜 Usage  
+1. Clone/download the `index.html` file.  
+2. Open in any browser.  
+3. Replace placeholder content (e.g., image paths, social links) with your own.  
 
-Features
+## 🌟 Key Highlights  
+- **Clean Code**: Logical hierarchy with `<h1>` to `<h3>` headings.  
+- **Downloadable CV**: PDF linked via `<a download>`.  
+- **Favicon Support**: Custom favicon for branding.  
 
-Semantic HTML5 structure for better readability and accessibility.
+## 📝 Note  
+This is a **foundational HTML-only version**. Future enhancements could include CSS styling and JavaScript interactivity.  
 
-Logical heading hierarchy to support SEO and screen readers.
+---  
+**© 2025 Nuel Ukah** | [GitHub](https://github.com/ElderNuel) | [LinkedIn](https://linkedin.com/in/NuelUkah)  
 
-Accessible navigation with descriptive links and ARIA labels.
-
-Sections included:
-
-Header & Navigation – Contains site title and main menu.
-
-About – Profile image, introduction, and professional summary.
-
-Educational Background – Academic qualifications and CV download link.
-
-Programming Languages – Skills and tools proficiency.
-
-Interests – Areas of passion in tech and business strategy.
-
-Projects – Brief descriptions and links to work samples.
-
-Contact Form – Accessible form for inquiries.
-
-Footer – Copyright and social media links.
-
-File Structure
-portfolio/
-│
-├── index.html                # Main HTML file
-│
-├── assets/
-│   ├── images/                # Profile photo & project screenshots
-│   │   ├── nuel-ukah-web-developer-software-engineer.jpg
-│   │   └── nuel-ukah-power-learn-project-web-portfolio.jpg
-│   │
-│   └── docs/                  # CV and other documents
-│       └── nuel-ukah-web-developer-software-engineer-cv.pdf
-
-Accessibility Features
-
-Descriptive alt text for images
-
-ARIA roles for main landmarks
-
-Clear link text instead of vague “click here”
-
-Proper heading sequence (H1 → H2 → H3)
-
-SEO Features
-
-Meta title and meta description for search engines
-
-Meta keywords to target relevant searches
-
-Human-readable, descriptive content
-
-Logical HTML structure for better crawling
-
-How to Use
-
-Download and extract the project folder.
-
-Replace the placeholder images in assets/images with your actual profile and project images.
-
-Replace the placeholder CV file in assets/docs with your own PDF.
-
-Edit index.html to update your personal details, skills, projects, and contact info.
-
-Open index.html in your browser to preview.
-
-Future Enhancements
-
-Add CSS for styling and responsiveness.
-
-Integrate JavaScript for interactive elements.
-
-Use form handling for the contact section (via email service or backend).
-
-Author: Nuel Ukah
-Date: 2025
+*Built for the Power Learn Project (PLP) Web Development Program.*
